@@ -13,3 +13,4 @@ the browser to create a new repository.
 5.Check the box to start with a README file.
 
 6. Hit ok!
+ready to go
